@@ -1,0 +1,9 @@
+.info {
+    text-align: center;
+}
+
+.eventtable td {
+    border: solid 1px;
+    padding: 5px;
+    margin: 0;
+}
